@@ -5,6 +5,12 @@ Super parallelism implemented by relational data structure that acceralate chain
 
 All rights reserved.
 
+# Explained
+
+Explained in link below.
+
+<https://hirasawakinko.github.io/chika_home/toward_science/Qubit%20Matrix%20Chain%20Multiplication%20in%20O(n)/>
+
 # Benchmark Result
 
 ## environment: 
