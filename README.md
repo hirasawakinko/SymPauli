@@ -1,7 +1,7 @@
 # SymPauli
 Symbolic Pauli Operator Multiplication
 
-Super parallelism implemented by relational data structure that acceralate chain multiplication of Pauli Matrix Tensors by 40000X in 40 qubits simulation.
+Super parallelism implemented using relational data structure that acceralate chain multiplication of Pauli Matrix Tensors by 40000X in 40 qubits simulation.
 
 All rights reserved.
 
