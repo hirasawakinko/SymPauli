@@ -1,5 +1,5 @@
 # SymPauli
-Symbolic Pauli Operation Multiplication
+Symbolic Pauli Operator Multiplication
 
 Super parallelism implemented by relational data structure that acceralate chain multiplication of Pauli Matrix Tensors by 40000X in 40 qubits simulation.
 
@@ -9,6 +9,7 @@ All rights reserved.
 
 ## environment: 
   - Python3.10 
+  - Numpy-intel-mkl
   - Jupyterlab3.4.7 
   - AMD Ryzen7 5700G
   - DDR4 64GB 3200MHz CL22
